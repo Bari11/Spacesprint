@@ -80,5 +80,11 @@ body {
     font-weight: 500;
     color: #fff;
 }
+.logo{
+    border-radius: 20px;
+    margin-left: 25px;
+    margin-bottom: 20px;
+    
+}
 
 
